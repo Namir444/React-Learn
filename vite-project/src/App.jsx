@@ -5,9 +5,9 @@ import Name from './Name.jsx'
 function App() {
   return (
     <div>
-      <h1>Welcome to react</h1>
+      <h1>Welcome to React</h1>
       <Button />
-      
+
       <About />
       <Contact />
       <Name />
